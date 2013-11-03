@@ -20,3 +20,9 @@ menuconfig FM_SI4709
 	default n
 	help
 	  Say Y to enable Si4705 FM radio support.
+
+menuconfig EXFAT
+	tristate "Samsung EXFAT support"
+	default m
+	help
+	  Say Y to enable Samsung EXFAT support.
