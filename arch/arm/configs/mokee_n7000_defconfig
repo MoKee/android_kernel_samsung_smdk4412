@@ -1184,6 +1184,7 @@ CONFIG_RFKILL_PM=y
 #
 # Device Drivers
 #
+CONFIG_MALI400=y
 
 #
 # Generic Driver Options
